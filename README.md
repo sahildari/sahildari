@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sahil Dari</h1>
 <h3 align="center">A passionate Cyber Security Analyst & Bug Hunter from India</h3>
 
@@ -29,11 +28,15 @@
 <a href="https://instagram.com/sahildari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahildari" height="30" width="40" /></a>
 <a href="https://medium.com/@sahildari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahildari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahil9dari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil9dari" height="30" width="40" /></a>
+<a href="https://hackerone.com/hackerookie" target="_blank" rel="noreferrer"> <img align="center" src='https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg' alt='hackerone' height="30"> </a> </a> 
+</p>
 <!-- <a href="https://www.leetcode.com/sahildari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahildari" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!-- <a href="https://hackerone.com/hackerookie" target="_blank" rel="noreferrer"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'> </a>--> </p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sahildari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahildari" /></a></p><br><br>
