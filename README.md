@@ -29,8 +29,7 @@
 <a href="https://medium.com/@sahildari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahildari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahil9dari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil9dari" height="30" width="40" /></a>
 <a href="https://hackerone.com/hackerookie" target="_blank" rel="noreferrer"> <img align="center" src='https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg' alt='hackerone' height="40"> </a> </a> 
-</p>
-<!-- <a href="https://www.leetcode.com/sahildari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahildari" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/sahildari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahildari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
