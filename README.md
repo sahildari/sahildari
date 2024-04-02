@@ -15,6 +15,8 @@
 
 - 📝 I regularly write articles on [sahildari.medium.com](https://sahildari.medium.com)
 
+- I have found some vulnerabilities in some Open Source Projects resulting in the publishing of CVEs: [CVE-2023-37635](https://nvd.nist.gov/vuln/detail/CVE-2023-37635), [CVE-2023-37636](https://nvd.nist.gov/vuln/detail/CVE-2023-37636), [CVE-2024-3137](https://nvd.nist.gov/vuln/detail/CVE-2024-3137), [CVE-2024-31061](https://nvd.nist.gov/vuln/detail/CVE-2024-31061), [CVE-2024-31062](https://nvd.nist.gov/vuln/detail/CVE-2024-31062), [CVE-2024-31063](https://nvd.nist.gov/vuln/detail/CVE-2024-31063), [CVE-2024-31064](https://nvd.nist.gov/vuln/detail/CVE-2024-31064) and [CVE-2024-31065](https://nvd.nist.gov/vuln/detail/CVE-2024-31065)
+
 - ⚡ Fun fact **I have found valid some bugs in CISCO, PHILIPS, SE, IBM, MAGENTO, NEXTCLOUD and many more 😄**
 
 ### Blogs posts
