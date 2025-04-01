@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahildari" alt="sahildari" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sahildari" target="blank"><img src="https://img.shields.io/twitter/follow/sahildari?logo=twitter&style=for-the-badge" alt="sahildari" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/sahildari" target="blank"><img src="https://img.shields.io/twitter/follow/sahildari?logo=twitter&style=for-the-badge" alt="sahildari" /></a> </p>
 
 - 🔭 I’m currently working on **Secure Coding with Java and Python**
 
