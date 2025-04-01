@@ -21,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Static Application Security Testing SAST Series: Part 1 Path Manipulation](https://medium.com/@sahildari/sast-series-part-1-a7cf18df0022)
+- [🎯 Why SAST is a Must-Have Skill for AppSec Professionals!](https://medium.com/@sahildari/why-sast-is-a-must-have-skill-for-appsec-professionals-014cc40f98fc)
 - [Finding a Unique Kind of IDOR](https://systemweakness.com/finding-a-unique-kind-of-idor-df22374605f6)
 - [Easiest Critical Bug Triaged on HackerOne](https://sahildari.medium.com/easiest-critical-bug-triaged-on-hackerone-f84bb4c9266)
 <!-- BLOG-POST-LIST:END -->
